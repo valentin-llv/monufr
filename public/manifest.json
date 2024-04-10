@@ -1,0 +1,61 @@
+{
+    "name":"MonUFR",
+    "short_name":"MonUFR",
+    "lang": "fr",
+
+    "description":"MonUFR est une application qui permet d'accéder à tous les services de la FAC. Consultez votre emploi du temps et bien plus.",
+
+    "start_url":"https://app.monufr.fr",
+    "scope":"https://app.monufr.fr",
+    "id": "/",
+
+    "theme_color":"#13171d",
+    "background_color":"#13171d",
+
+    "display":"standalone",
+    "orientation": "portrait",
+
+    "icons":[
+        {
+            "src":"https://app.monufr.fr/favicon/favicon.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+
+        {
+            "src":"https://app.monufr.fr/favicon/favicon-512x512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        
+        {
+            "purpose":"maskable",
+            "src":"https://app.monufr.fr/favicon/favicon-maskable.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        
+        {
+            "purpose":"maskable",
+            "src":"https://app.monufr.fr/favicon/favicon-maskable-512x512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ],
+
+    "screenshots":[
+        {
+            "src":"https://app.monufr.fr/screenshots/screen1.webp",
+            "sizes":"372x668",
+            "type":"image/png"
+        },
+        
+        {
+            "src":"https://app.monufr.fr/screenshots/screen2.webp",
+            "sizes":"371x662",
+            "type":"image/png"
+        }
+    ],
+
+    "protocol_handlers": []
+}
